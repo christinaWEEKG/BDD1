@@ -1,0 +1,12 @@
+[{"genre_id":1, "name_genre":"action", "description_genre":"Action, Adventure, Fantasy"},
+ {"genre_id":2, "name_genre":"crime", "description_genre":"Crime, Drama, Thriller"},
+ {"genre_id":3, "name_genre":"biography", "description_genre":"Biography, Crime, Drama"},
+ {"genre_id":4, "name_genre":"Sci-Fi", "description_genre":"Sci-Fi, Action, Adventure"},
+ {"genre_id":5, "name_genre":"drama", "description_genre":"Drama, Action, Crime"},
+ {"genre_id":6, "name_genre":"adventure", "description_genre":"Adventure, Suspense"},
+ {"genre_id":7, "name_genre":"thriller", "description_genre":"thriller, action"},
+ {"genre_id":8, "name_genre":"comedy", "description_genre":"comedy, hilarous"},
+ {"genre_id":10, "name_genre":"history", "description_genre":"history, drama"},
+ {"genre_id":11, "name_genre":"horror", "description_genre":"horror,crime"},
+ {"genre_id":20, "name_genre":"scary", "description_genre":"horror,crime,mystery"},
+ {"genre_id":22, "name_genre":"mystery", "description_genre":"murder,crime,mystery"}]
